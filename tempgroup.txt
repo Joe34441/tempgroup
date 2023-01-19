@@ -1,1 +1,15 @@
-first commit
+GUI - Ludo
+
+Networking - Joe
+
+Core Application Loop - Joe
+
+Game/Match Loop - Sid
+
+Gameplay Mechanics - Sid
+
+Level Building -
+
+Animation - 
+
+Audio - 
