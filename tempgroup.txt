@@ -5,13 +5,13 @@ Brief Project Overview:
 
 General Task Assignment:
 
-GUI - Ludo
+GUI - 
 
 Networking - Joe
 Core Application Loop - Joe
 
-Game/Match Loop - Sid
-Gameplay Mechanics - Sid
+Game/Match Loop - 
+Gameplay Mechanics - 
 
 Modelling - 
 
